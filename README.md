@@ -2,7 +2,7 @@
 
 右键下面的链接选择另存为下载 HTML 文件，手机端长按链接，点击下载链接下载：
 
-[⬇️ 点击下载网页源码（ZIP格式）](https://github.com/toby215/xuefengw/raw/main/index(10).html)
+[⬇️ 点击下载网页源码](https://github.com/toby215/xuefengw/raw/main/index(10).html)
 
 
 ---
